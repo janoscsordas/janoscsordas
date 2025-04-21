@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning typescript and php (laravel)
+🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning and making some side projects
 
 
 # 💻 Tech Stack:
