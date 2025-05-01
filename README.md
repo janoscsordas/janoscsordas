@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning and making some side projects
+🌱 I’m currently learning and working on some side projects
 
 
 # 💻 Tech Stack:
