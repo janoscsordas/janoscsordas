@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning and working on some side projects
+🌱 I’m currently pausing my work as a software developer. Thinking about side projects I should make
 
 
 # 💻 Tech Stack:
