@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 A Software Developer & Tester graduate from Gyulai SzC Szigeti Endre Technical and Vocational School. My stack is mostly TypeScript, but got something interesting? Count me in. I mostly develop full-stack open-source centered apps. I also have a profession as a System Operator Technician, but I do not favor it as much. Good thing I know some things about networking, helps me Backend development journey a lot.
+🌱 A Software Developer & Tester graduate from Gyulai SzC Szigeti Endre Technical and Vocational School. My stack is mostly TypeScript, but got something interesting? Count me in. I mostly develop full-stack open-source centered apps. I also have a profession as a System Operator Technician, but I do not favor it as much. Good thing I know some things about networking, helps me in Backend development journey a lot.
 
 💼 Currently working as a food-delivery driver for Leonardo Ételbár. Besides that I focus on web development.
 
